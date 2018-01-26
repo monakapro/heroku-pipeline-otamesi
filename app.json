@@ -1,0 +1,16 @@
+{
+  "name": "heroku-pipeline-otamesi",
+  "description": "HerokuPipelineのReviewApp機能を使用するために必要なファイル",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
